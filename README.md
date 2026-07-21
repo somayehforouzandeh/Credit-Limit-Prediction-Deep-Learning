@@ -142,9 +142,8 @@ RMSE represents the typical prediction error in the same unit as the target vari
   <img src="Screenshots/Actual%20vs%20Predicted%20Credit%20Limit.png" alt="Actual vs Predicted Credit Limit" width="800">
 </p>
 
-**English:** This visualization compares the actual credit limit values with the values predicted by the neural network model.
+This visualization compares the actual credit limit values with the values predicted by the neural network model.
 
-**فارسی:** این نمودار مقادیر واقعی سقف اعتباری را با مقادیر پیش‌بینی‌شده توسط مدل شبکه عصبی مقایسه می‌کند.
 
 ---
 
@@ -154,9 +153,8 @@ RMSE represents the typical prediction error in the same unit as the target vari
   <img src="Screenshots/Model%20Evaluation%20Results.png" alt="Model Evaluation Results" width="700">
 </p>
 
-**English:** The final evaluation results summarize the prediction performance of the neural network model using MSE and RMSE metrics.
+The final evaluation results summarize the prediction performance of the neural network model using MSE and RMSE metrics.
 
-**فارسی:** این تصویر نتایج نهایی عملکرد مدل شبکه عصبی را با استفاده از معیارهای MSE و RMSE خلاصه می‌کند.
 
 ---
 
