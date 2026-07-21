@@ -130,9 +130,8 @@ RMSE represents the typical prediction error in the same unit as the target vari
   <img src="Screenshots/Neural%20Network%20Training%20Performance.png" alt="Neural Network Training Performance" width="800">
 </p>
 
-**English:** The chart shows the training and validation loss during 30 epochs. The decreasing loss indicates that the model progressively improved its learning performance.
+The chart shows the training and validation loss during 30 epochs. The decreasing loss indicates that the model progressively improved its learning performance.
 
-**فارسی:** این نمودار روند خطای آموزش و اعتبارسنجی مدل را طی ۳۰ دوره نشان می‌دهد. کاهش خطا بیانگر بهبود تدریجی عملکرد مدل در فرایند یادگیری است.
 
 ---
 
